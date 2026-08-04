@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS,Generative AI, prompt engineering techniques etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ASugunaKumar?tab=repositories](https://github.com/ASugunaKumar?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/ASugunaKumar/projects](https://github.com/ASugunaKumar?tab=repositories))
 
 - 📫 How to reach me **Abhisheksugukumar@gmail.com** and **+44 7594987294**
 - 📽️ To view my Projects please refer to my other repositories (Please click here: [https://github.com/ASugunaKumar?tab=repositories](https://github.com/ASugunaKumar?tab=repositories))
