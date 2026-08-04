@@ -9,7 +9,7 @@
 - 📽️ To view my Projects please refer to my other repositories (Please click here: [https://github.com/ASugunaKumar/projects](https://github.com/ASugunaKumar?tab=repositories))
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P2_HEKANyJSz9t9wt_mdvHRGH3TKqY8p/view?usp=drive_link](https://drive.google.com/file/d/1P2_HEKANyJSz9t9wt_mdvHRGH3TKqY8p/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/CV](https://drive.google.com/file/d/1P2_HEKANyJSz9t9wt_mdvHRGH3TKqY8p/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
